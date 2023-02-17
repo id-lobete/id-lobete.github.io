@@ -1,0 +1,64 @@
+header {clear: both;
+    top: 2%;
+    height: 20%;
+    width: 85%;
+}
+    
+nav {position: relative;
+    display: inline-block;
+    top: 60px;
+    left: 30%;
+}
+
+    
+section {position: relative;
+    display: block;
+    width: 90%;
+    left: 5%;
+    padding: 20px;
+    top: 50px;
+    margin-bottom: 55px;
+}
+    
+footer {margin-top: -50px;
+    height: 5%; 
+    padding:5px 0px;
+    clear: both;
+}
+
+#dibujo1{position: absolute;
+    width: 20%;
+    right: 2%;
+}
+
+#logo{position: absolute; 
+    width: 28%; 
+    left: 35%;
+}
+
+#dibujo2{position: absolute;
+    width: 20%;
+    left: 2%;
+    margin-bottom: 20px;
+}
+
+#imagenizq{float: left; 
+    width: 20%; 
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#imagender{float: right; 
+    width: 20%; 
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+   
+
+#silueta{position: relative;
+    left: 1%;
+    width: 23%;
+    bottom: 50px;
+}

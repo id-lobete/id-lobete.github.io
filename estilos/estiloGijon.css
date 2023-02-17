@@ -1,0 +1,48 @@
+.negrita{font-weight: bold;}
+
+.cursiva{font-style: italic;}
+
+.sub{text-decoration: underline;}
+
+.roj{color: rgb(199, 1, 1);
+    font-weight: bold;
+}
+
+.azul{background-color: navy; color: white; font-weight: bold;}
+.rojo{background-color: red; color: white; font-weight: bold;}
+.naranja{background-color: rgb(255, 123, 0); color: black; font-weight: bold;}
+.amarillo{background-color: yellow; color: black; font-weight: bold;}
+
+h3, h4{text-shadow: 2px 2px 5px lightgrey;
+    letter-spacing: 1px;
+}
+
+nav, section{background-color: rgba(255, 255, 255, 0.337);}
+
+body{background-color: white;
+    font-size: large; 
+    line-height: 25px;
+}
+
+h2{
+    border: 5px solid rgb(199, 1, 1);
+    border-radius: 100%;
+    height: 40px;
+    width: 50px;
+    text-align: center;
+    padding-top: 12px;
+}
+
+footer{text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(199, 1, 1);
+}
+
+section{text-align: justify;}
+
+fieldset{background-color:antiquewhite;}
+
+th{background-color: rgb(199, 1, 1);
+    color: white;
+}
